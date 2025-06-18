@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Wireless Headphones",
+    "price": 299.99,
+    "description": "High-quality wireless headphones with noise cancellation and 30-hour battery life. Perfect for music lovers and professionals.",
+    "imageUrl": "https://images.pexels.com/photos/3394658/pexels-photo-3394658.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "category": "Electronics",
+    "createdAt": "2024-01-15T10:00:00.000Z",
+    "updatedAt": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "2", 
+    "name": "Smart Fitness Watch",
+    "price": 199.99,
+    "description": "Track your health and fitness with this advanced smartwatch featuring heart rate monitoring, GPS, and 7-day battery life.",
+    "imageUrl": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "category": "Wearables",
+    "createdAt": "2024-01-16T14:30:00.000Z",
+    "updatedAt": "2024-01-16T14:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Portable Bluetooth Speaker",
+    "price": 89.99,
+    "description": "Compact and powerful Bluetooth speaker with 360-degree sound, waterproof design, and 12-hour playtime.",
+    "imageUrl": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "category": "Audio",
+    "createdAt": "2024-01-17T09:15:00.000Z",
+    "updatedAt": "2024-01-17T09:15:00.000Z"
+  }
+]
